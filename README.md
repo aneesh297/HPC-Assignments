@@ -14,7 +14,12 @@ Assignment 2:
 - Reduction using the Thrust library
 - Scan of a list
 - Scan using Thrust
+
 Assignment 3:
+- Histogramming
+- Histogramming using Thrust
+- Basic Convolution
+- Stencil Tiling
 
 Assignment 4:
 
