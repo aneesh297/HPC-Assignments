@@ -10,7 +10,10 @@ Assignment 1:
 - Questions explore the specifications of the GPU being used by using querying feature provided by CUDA.
 
 Assignment 2:
-
+- Reduction of vectors
+- Reduction using the Thrust library
+- Scan of a list
+- Scan using Thrust
 Assignment 3:
 
 Assignment 4:
