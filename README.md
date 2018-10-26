@@ -2,6 +2,20 @@
 
 Assignment solutions for the CO332 course
 
-Implementation is done in CUDA.
+Implementation is in CUDA.
 
-Problems include Convolution, Matrix multiplication.
+There are four assignments.
+
+Assignment 1:
+- Questions explore the specifications of the GPU being used by using querying feature provided by CUDA.
+
+Assignment 2:
+- Reduction of vectors
+- Reduction using the Thrust library
+- Scan of a list
+- Scan using Thrust
+Assignment 3:
+
+Assignment 4:
+
+
